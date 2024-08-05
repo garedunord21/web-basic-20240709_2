@@ -1,6 +1,6 @@
 @font-face {
     font-family: kakao;
-    src: url(./KakaoRegular.ttf);
+    src: url(./fonts/KakaoRegular.ttf);
 }
 
 body {
@@ -66,15 +66,15 @@ body {
 }
 
 .icon-button.search {
-    background-image: url(./search1.png);
+    background-image: url(./images/search.png);
 }
 
 .icon-button.earth {
-    background-image: url(./earth.png);
+    background-image: url(./images/earth.png);
 }
 
 .icon-button.moon {
-    background-image: url(./moon.png);
+    background-image: url(./images/moon.png);
 }
 
 #main {
