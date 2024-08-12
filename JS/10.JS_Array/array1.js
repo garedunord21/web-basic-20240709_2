@@ -68,7 +68,7 @@ for (var item of fruits) {
 console.log('==============================');
 
 /*
-    배열의 길이 : 배열.lenght
+    배열의 길이 : 배열.length
 */
 
 // var newFruits = fruits;
